@@ -1,0 +1,3 @@
+/*
+ Define function outside the class as function is part of class i.e. instead of defining function inside the class you are going to difine function outside class.
+*/
