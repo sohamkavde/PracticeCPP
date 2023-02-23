@@ -9,10 +9,3 @@
 2 Install mingw - A compiler
 3 Run first programe
 */
-#include<iostream>
-using namespace std;
-
-int main(){
-    cout<<"Hello world!";
-    return 0;
-}
