@@ -2,7 +2,7 @@
 What is Abstraction ?
 => Abstraction is method to hide unneccessary information from the world/users.
 There are two ways to implement Abstraction.
-1 Class => We have access specifier which help to hide unneccessary data member and member function from the users.
+1 Class => We have access specifier which help to hide unneccessary data member and member function from the users. like where we store data In oracle or mysqli, no one knows
 2 Header files => When we use pow() function from <math.h> header file we simply pass the value/arguments. We don't know the algorithms behind the pow funcion.
 */
 
